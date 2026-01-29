@@ -126,7 +126,7 @@ Hybrid decision logic
 
 Output explainability
 
-This notebook demonstrates the core intelligence behind the chatbot independently of the web UI.
+ ****This notebook demonstrates the core intelligence behind the chatbot independently of the web UI.**
 
 **Future Improvements**
 
