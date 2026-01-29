@@ -1,4 +1,5 @@
 # Smart_Health_care_chatbot
+An secure healthcare chatbot using ML , NLP embeddings , and rule-based medical reasoning with
 An intelligent, explainable healthcare chatbot that guides users through symptom-based conversations using a hybrid AI architecture combining machine learning, semantic understanding, and rule-based medical reasoning.
 
 Project Overview
